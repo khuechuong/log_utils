@@ -1,5 +1,5 @@
 # log_utils
-`log_utils` is a lightweight, header-only ROS 2 utility package that provides simplified logging functions:
+`log_utils` is a lightweight, ROS 2 utility package that provides simplified logging functions:
 - `log_utils::info()`
 - `log_utils::warn()`
 - `log_utils::error()`
