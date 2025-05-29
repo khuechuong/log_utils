@@ -39,7 +39,7 @@ Add the dependency:
 <depend>log_utils</depend>
 ```
 
-### 2. Update CMakeLists.txt
+### 2. Update `CMakeLists.txt`
 
 At the top, add:
 
