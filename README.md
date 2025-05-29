@@ -31,8 +31,6 @@ source install/setup.bash
 
 To use `log_utils` in your own ROS 2 C++ package:
 
----
-
 ### 1. Update `package.xml`
 
 Add the dependency:
