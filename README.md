@@ -18,7 +18,7 @@ log_utils::error("Failed to connect to %s", "sensor_node");
 log_utils::debug("x: %.2f, y: %.2f", 1.23, 4.56);
 ```
 
-## 🔧 Installation
+## 📥 Installation
 ```
 cd ~/<you folder>/src
 git clone https://github.com/khuechuong/log_utils.git
@@ -27,7 +27,7 @@ colcon build --packages-select log_utils
 source install/setup.bash
 ```
 
-## 📥 How to Use in Another ROS 2 Package
+## 🔧 How to Use in Another ROS 2 Package
 
 To use `log_utils` in your own ROS 2 C++ package:
 
