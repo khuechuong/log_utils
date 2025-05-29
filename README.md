@@ -17,6 +17,13 @@ log_utils::warn("Battery low: %.2f%%", 7.5);
 log_utils::error("Failed to connect to %s", "sensor_node");
 log_utils::debug("x: %.2f, y: %.2f", 1.23, 4.56);
 ```
+## ✅ Requirements
+
+- ROS 2 **Humble Hawksbill** (recommended)
+- C++17
+- `rclcpp`
+
+> 📝 This package is tested on ROS 2 Humble. It may also work on Iron or Rolling with no modification, but compatibility is not guaranteed.
 
 ## 📥 Installation
 ```
